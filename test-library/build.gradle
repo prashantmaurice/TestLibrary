@@ -10,10 +10,10 @@ ext {
 
     libraryDescription = 'A wrapper for Facebook Native Like Button (LikeView) on Android'
 
-    siteUrl = 'https://github.com/prashantmaurice/AndroidMediaPicker'
-    gitUrl = 'https://github.com/prashantmaurice/AndroidMediaPicker'
+    siteUrl = 'https://github.com/prashantmaurice/TestLibrary'
+    gitUrl = 'https://github.com/prashantmaurice/TestLibrary.git'
 
-    libraryVersion = '0.0.0.2'
+    libraryVersion = '0.0.0.4'
 
     developerId = 'prashantmaurice'
     developerName = 'Prashant Maurice'
@@ -32,7 +32,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
-        versionName "0.0.0.2"
+        versionName "0.0.0.4"
     }
     buildTypes {
         release {
